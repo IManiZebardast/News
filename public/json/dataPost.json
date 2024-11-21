@@ -1,0 +1,235 @@
+{
+    "items": [
+       {
+      "id": 1,
+      "title": "The Greatest Heist in History",
+      "description": "rodri win the ballon d'or.",
+      "url": "https://example.com/breaking-news",
+      "imageUrl": "https://example.com/images/news1.jpg",
+      "publishedAt": "2024-11-01T18:30:00Z",
+      "image":"../images/mac.jpeg"
+      },
+      {
+      "id": 2,
+      "title": "Sports Update: Local Team Wins Championship",
+      "description": "The local team clinched the championship in a thrilling finale.",
+      "url": "https://example.com/sports-update",
+      "imageUrl": "https://example.com/images/sports1.jpg",
+      "publishedAt": "2024-11-01T17:00:00Z",
+      "image":"../images/mac.jpeg"
+      },
+      {
+      "id": 3,
+      "title": "Technology: New Gadget Released",
+      "description": "The latest gadget promises to revolutionize the tech industry.",
+      "url": "https://example.com/tech-news",
+      "imageUrl": "https://example.com/images/tech1.jpg",
+      "publishedAt": "2024-11-01T16:45:00Z",
+      "image":"../images/mac.jpeg"
+      },
+      {
+        "id": 4,
+        "title": "Breaking News: Major Event Happens",
+        "description": "The latest gadget promises to revolutionize the tech industry.",
+        "url": "https://example.com/tech-news",
+        "imageUrl": "https://example.com/images/tech1.jpg",
+        "publishedAt": "2024-11-01T16:45:00Z",
+        "image":"../images/mac.jpeg"
+      },
+      {
+        "id": 5,
+        "title": "Technology: Macbook M4 Released",
+        "description": "The latest mackbook has m4 proccessor.",
+        "url": "https://example.com/tech-news",
+        "imageUrl": "https://example.com/images/tech1.jpg",
+        "publishedAt": "2024-11-01T16:45:00Z",
+        "image":"../images/mac.jpeg"
+    },
+    {
+        "id": 6,
+        "title": "Technology: Macbook M4 Released",
+        "description": "The latest mackbook has m4 proccessor.",
+        "url": "https://example.com/tech-news",
+        "imageUrl": "https://example.com/images/tech1.jpg",
+        "publishedAt": "2024-11-01T16:45:00Z",
+        "image":"../images/mac.jpeg"
+    },
+    {
+        "id": 7,
+        "title": "Technology: Macbook M4 Released",
+        "description": "The latest mackbook has m4 proccessor.",
+        "url": "https://example.com/tech-news",
+        "imageUrl": "https://example.com/images/tech1.jpg",
+        "publishedAt": "2024-11-01T16:45:00Z",
+        "image":"../images/mac.jpeg"
+    },
+    {
+        "id": 8,
+        "title": "Technology: Macbook M4 Released",
+        "description": "The latest mackbook has m4 proccessor.",
+        "url": "https://example.com/tech-news",
+        "imageUrl": "https://example.com/images/tech1.jpg",
+        "publishedAt": "2024-11-01T16:45:00Z",
+        "image":"../images/mac.jpeg"
+    },
+    {
+        "id": 9,
+        "title": "Technology: Macbook M4 Released",
+        "description": "The latest mackbook has m4 proccessor.",
+        "url": "https://example.com/tech-news",
+        "imageUrl": "https://example.com/images/tech1.jpg",
+        "publishedAt": "2024-11-01T16:45:00Z",
+        "image":"../images/mac.jpeg"
+    },
+    {
+        "id": 10,
+        "title": "Technology: Macbook M4 Released",
+        "description": "The latest mackbook has m4 proccessor.",
+        "url": "https://example.com/tech-news",
+        "imageUrl": "https://example.com/images/tech1.jpg",
+        "publishedAt": "2024-11-01T16:45:00Z",
+        "image":"../images/mac.jpeg"
+    },
+    {
+        "id": 11,
+        "title": "Technology: Macbook M4 Released",
+        "description": "The latest mackbook has m4 proccessor.",
+        "url": "https://example.com/tech-news",
+        "imageUrl": "https://example.com/images/tech1.jpg",
+        "publishedAt": "2024-11-01T16:45:00Z",
+        "image":"../images/mac.jpeg"
+    },
+    {
+        "id": 12,
+        "title": "Technology: Macbook M4 Released",
+        "description": "The latest mackbook has m4 proccessor.",
+        "url": "https://example.com/tech-news",
+        "imageUrl": "https://example.com/images/tech1.jpg",
+        "publishedAt": "2024-11-01T16:45:00Z",
+        "image":"../images/mac.jpeg"
+    },
+    {
+        "id": 13,
+        "title": "Technology: Macbook M4 Released",
+        "description": "The latest mackbook has m4 proccessor.",
+        "url": "https://example.com/tech-news",
+        "imageUrl": "https://example.com/images/tech1.jpg",
+        "publishedAt": "2024-11-01T16:45:00Z",
+        "image":"../images/mac.jpeg"
+    },
+    {
+        "id": 14,
+        "title": "Technology: Macbook M4 Released",
+        "description": "The latest mackbook has m4 proccessor.",
+        "url": "https://example.com/tech-news",
+        "imageUrl": "https://example.com/images/tech1.jpg",
+        "publishedAt": "2024-11-01T16:45:00Z",
+        "image":"../images/mac.jpeg"
+    },
+    {
+        "id": 15,
+        "title": "Technology: Macbook M4 Released",
+        "description": "The latest mackbook has m4 proccessor.",
+        "url": "https://example.com/tech-news",
+        "imageUrl": "https://example.com/images/tech1.jpg",
+        "publishedAt": "2024-11-01T16:45:00Z",
+        "image":"../images/mac.jpeg"
+    },
+    {
+        "id": 16,
+        "title": "Technology: Macbook M4 Released",
+        "description": "The latest mackbook has m4 proccessor.",
+        "url": "https://example.com/tech-news",
+        "imageUrl": "https://example.com/images/tech1.jpg",
+        "publishedAt": "2024-11-01T16:45:00Z",
+        "image":"../images/mac.jpeg"
+    },
+    {
+        "id": 17,
+        "title": "Technology: Macbook M4 Released",
+        "description": "The latest mackbook has m4 proccessor.",
+        "url": "https://example.com/tech-news",
+        "imageUrl": "https://example.com/images/tech1.jpg",
+        "publishedAt": "2024-11-01T16:45:00Z",
+        "image":"../images/mac.jpeg"
+    },
+    {
+        "id": 18,
+        "title": "Technology: Macbook M4 Released",
+        "description": "The latest mackbook has m4 proccessor.",
+        "url": "https://example.com/tech-news",
+        "imageUrl": "https://example.com/images/tech1.jpg",
+        "publishedAt": "2024-11-01T16:45:00Z",
+        "image":"../images/mac.jpeg"
+    },
+    {
+        "id": 19,
+        "title": "Technology: Macbook M4 Released",
+        "description": "The latest mackbook has m4 proccessor.",
+        "url": "https://example.com/tech-news",
+        "imageUrl": "https://example.com/images/tech1.jpg",
+        "publishedAt": "2024-11-01T16:45:00Z",
+        "image":"../images/mac.jpeg"
+    },
+    {
+        "id": 20,
+        "title": "Technology: Macbook M4 Released",
+        "description": "The latest mackbook has m4 proccessor.",
+        "url": "https://example.com/tech-news",
+        "imageUrl": "https://example.com/images/tech1.jpg",
+        "publishedAt": "2024-11-01T16:45:00Z",
+        "image":"../images/mac.jpeg"
+    }
+    ,
+    {
+        "id": 21,
+        "title": "Technology: Macbook M4 Released",
+        "description": "The latest mackbook has m4 proccessor.",
+        "url": "https://example.com/tech-news",
+        "imageUrl": "https://example.com/images/tech1.jpg",
+        "publishedAt": "2024-11-01T16:45:00Z",
+        "image":"../images/mac.jpeg"
+    }
+    ,
+    {
+        "id": 22,
+        "title": "Technology: Macbook M4 Released",
+        "description": "The latest mackbook has m4 proccessor.",
+        "url": "https://example.com/tech-news",
+        "imageUrl": "https://example.com/images/tech1.jpg",
+        "publishedAt": "2024-11-01T16:45:00Z",
+        "image":"../images/mac.jpeg"
+    }
+    ,
+    {
+        "id": 23,
+        "title": "Technology: Macbook M4 Released",
+        "description": "The latest mackbook has m4 proccessor.",
+        "url": "https://example.com/tech-news",
+        "imageUrl": "https://example.com/images/tech1.jpg",
+        "publishedAt": "2024-11-01T16:45:00Z",
+        "image":"../images/mac.jpeg"
+    }
+    ,
+    {
+        "id": 24,
+        "title": "Technology: Macbook M4 Released",
+        "description": "The latest mackbook has m4 proccessor.",
+        "url": "https://example.com/tech-news",
+        "imageUrl": "https://example.com/images/tech1.jpg",
+        "publishedAt": "2024-11-01T16:45:00Z",
+        "image":"../images/mac.jpeg"
+    }
+    ,
+    {
+        "id": 25,
+        "title": "Technology: Macbook M4 Released",
+        "description": "The latest mackbook has m4 proccessor.",
+        "url": "https://example.com/tech-news",
+        "imageUrl": "https://example.com/images/tech1.jpg",
+        "publishedAt": "2024-11-01T16:45:00Z",
+        "image":"../images/mac.jpeg"
+    }
+]
+}
+  

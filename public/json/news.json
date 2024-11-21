@@ -1,0 +1,93 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "World Leaders Summit",
+      "description": "Global leaders gather to discuss climate change and economic policies.",
+      "url": "https://example.com/news/world-leaders-summit",
+      "imageUrl": "https://example.com/images/news/world-summit.jpg",
+      "publishedAt": "2024-11-20T10:00:00Z",
+      "image": "../images/mac.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Breaking News: Election Results",
+      "description": "Election results show a tight race between major parties.",
+      "url": "https://example.com/news/election-results",
+      "imageUrl": "https://example.com/images/news/election.jpg",
+      "publishedAt": "2024-11-20T22:00:00Z",
+      "image": "../images/mac.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Technology Advancements",
+      "description": "New AI models are reshaping the landscape of machine learning.",
+      "url": "https://example.com/news/technology-advancements",
+      "imageUrl": "https://example.com/images/news/technology.jpg",
+      "publishedAt": "2024-11-19T08:30:00Z",
+      "image": "../images/mac.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Sports: Championship Highlights",
+      "description": "Catch the highlights from the thrilling championship game last night.",
+      "url": "https://example.com/news/championship-highlights",
+      "imageUrl": "https://example.com/images/news/championship.jpg",
+      "publishedAt": "2024-11-21T07:00:00Z",
+      "image": "../images/mac.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Sports: Championship Highlights",
+      "description": "Catch the highlights from the thrilling championship game last night.",
+      "url": "https://example.com/news/championship-highlights",
+      "imageUrl": "https://example.com/images/news/championship.jpg",
+      "publishedAt": "2024-11-21T07:00:00Z",
+      "image": "../images/mac.jpeg"
+    }, {
+      "id": 6,
+      "title": "Sports: Championship Highlights",
+      "description": "Catch the highlights from the thrilling championship game last night.",
+      "url": "https://example.com/news/championship-highlights",
+      "imageUrl": "https://example.com/images/news/championship.jpg",
+      "publishedAt": "2024-11-21T07:00:00Z",
+      "image": "../images/mac.jpeg"
+    },
+    {
+      "id": 7,
+      "title": "Sports: Championship Highlights",
+      "description": "Catch the highlights from the thrilling championship game last night.",
+      "url": "https://example.com/news/championship-highlights",
+      "imageUrl": "https://example.com/images/news/championship.jpg",
+      "publishedAt": "2024-11-21T07:00:00Z",
+      "image": "../images/mac.jpeg"
+    },
+    {
+      "id": 8,
+      "title": "Sports: Championship Highlights",
+      "description": "Catch the highlights from the thrilling championship game last night.",
+      "url": "https://example.com/news/championship-highlights",
+      "imageUrl": "https://example.com/images/news/championship.jpg",
+      "publishedAt": "2024-11-21T07:00:00Z",
+      "image": "../images/mac.jpeg"
+    },
+    {
+      "id": 9,
+      "title": "Sports: Championship Highlights",
+      "description": "Catch the highlights from the thrilling championship game last night.",
+      "url": "https://example.com/news/championship-highlights",
+      "imageUrl": "https://example.com/images/news/championship.jpg",
+      "publishedAt": "2024-11-21T07:00:00Z",
+      "image": "../images/mac.jpeg"
+    },
+    {
+      "id": 10,
+      "title": "Sports: Championship Highlights",
+      "description": "Catch the highlights from the thrilling championship game last night.",
+      "url": "https://example.com/news/championship-highlights",
+      "imageUrl": "https://example.com/images/news/championship.jpg",
+      "publishedAt": "2024-11-21T07:00:00Z",
+      "image": "../images/mac.jpeg"
+    }
+  ]
+}

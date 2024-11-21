@@ -1,0 +1,94 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Stock Market Update",
+      "description": "The S&P 500 closed at a record high today, driven by tech stocks.",
+      "url": "https://example.com/finance/stock-market-update",
+      "imageUrl": "https://example.com/images/finance/stock-market.jpg",
+      "publishedAt": "2024-11-20T16:00:00Z",
+      "image": "../images/mac.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Cryptocurrency News",
+      "description": "Bitcoin hits $40,000 as investors look for safe-haven assets.",
+      "url": "https://example.com/finance/crypto-news",
+      "imageUrl": "https://example.com/images/finance/bitcoin.jpg",
+      "publishedAt": "2024-11-20T18:00:00Z",
+      "image": "../images/mac.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Global Economy Report",
+      "description": "The IMF predicts slower global growth in 2025 due to geopolitical tensions.",
+      "url": "https://example.com/finance/global-economy",
+      "imageUrl": "https://example.com/images/finance/global-economy.jpg",
+      "publishedAt": "2024-11-19T14:30:00Z",
+      "image": "../images/mac.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Gold Prices Surge",
+      "description": "Gold prices rise to a 5-year high amid inflation concerns.",
+      "url": "https://example.com/finance/gold-prices",
+      "imageUrl": "https://example.com/images/finance/gold.jpg",
+      "publishedAt": "2024-11-21T09:00:00Z",
+      "image": "../images/mac.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Tech IPOs 2024",
+      "description": "The tech industry anticipates a wave of IPOs in the upcoming year.",
+      "url": "https://example.com/finance/tech-ipos",
+      "imageUrl": "https://example.com/images/finance/tech-ipos.jpg",
+      "publishedAt": "2024-11-18T11:00:00Z",
+      "image": "../images/mac.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "Tech IPOs 2024",
+      "description": "The tech industry anticipates a wave of IPOs in the upcoming year.",
+      "url": "https://example.com/finance/tech-ipos",
+      "imageUrl": "https://example.com/images/finance/tech-ipos.jpg",
+      "publishedAt": "2024-11-18T11:00:00Z",
+      "image": "../images/mac.jpeg"
+    },
+    {
+      "id": 7,
+      "title": "Tech IPOs 2024",
+      "description": "The tech industry anticipates a wave of IPOs in the upcoming year.",
+      "url": "https://example.com/finance/tech-ipos",
+      "imageUrl": "https://example.com/images/finance/tech-ipos.jpg",
+      "publishedAt": "2024-11-18T11:00:00Z",
+      "image": "../images/mac.jpeg"
+    },
+    {
+      "id": 8,
+      "title": "Tech IPOs 2024",
+      "description": "The tech industry anticipates a wave of IPOs in the upcoming year.",
+      "url": "https://example.com/finance/tech-ipos",
+      "imageUrl": "https://example.com/images/finance/tech-ipos.jpg",
+      "publishedAt": "2024-11-18T11:00:00Z",
+      "image": "../images/mac.jpeg"
+    },
+    {
+      "id": 9,
+      "title": "Tech IPOs 2024",
+      "description": "The tech industry anticipates a wave of IPOs in the upcoming year.",
+      "url": "https://example.com/finance/tech-ipos",
+      "imageUrl": "https://example.com/images/finance/tech-ipos.jpg",
+      "publishedAt": "2024-11-18T11:00:00Z",
+      "image": "../images/mac.jpeg"
+    },
+    {
+      "id": 10,
+      "title": "Tech IPOs 2024",
+      "description": "The tech industry anticipates a wave of IPOs in the upcoming year.",
+      "url": "https://example.com/finance/tech-ipos",
+      "imageUrl": "https://example.com/images/finance/tech-ipos.jpg",
+      "publishedAt": "2024-11-18T11:00:00Z",
+      "image": "../images/mac.jpeg"
+    }
+  ]
+}

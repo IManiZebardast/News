@@ -1,0 +1,95 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Team A Wins Championship",
+      "description": "Team A secured the championship title in football.",
+      "url": "https://example.com/news/team-a-wins",
+      "imageUrl": "https://example.com/images/team-a.jpg",
+      "publishedAt": "2024-11-15T00:00:00Z",
+      "image": "../images/mac.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Player Spotlight: John Smith",
+      "description": "John Smith is a 28-year-old basketball player from Team B with a 4.5 rating.",
+      "url": "https://example.com/players/john-smith",
+      "imageUrl": "https://example.com/images/john-smith.jpg",
+      "publishedAt": "2024-11-15T00:00:00Z",
+      "image": "../images/mac.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Marathon 2024",
+      "description": "Join the 2024 Marathon in New York with 5000 participants.",
+      "url": "https://example.com/events/marathon-2024",
+      "imageUrl": "https://example.com/images/marathon-2024.jpg",
+      "publishedAt": "2024-12-10T00:00:00Z",
+      "image": "../images/mac.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Top 5 Fitness Tips",
+      "description": "Discover the best fitness tips for staying healthy.",
+      "url": "https://example.com/news/fitness-tips",
+      "imageUrl": "https://example.com/images/fitness-tips.jpg",
+      "publishedAt": "2024-11-12T00:00:00Z",
+      "image": "../images/mac.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Eagles Hockey Team",
+      "description": "Eagles, ranked 3rd in hockey, are coached by Mike Johnson.",
+      "url": "https://example.com/teams/eagles",
+      "imageUrl": "https://example.com/images/eagles.jpg",
+      "publishedAt": "2024-11-15T00:00:00Z",
+      "image": "../images/mac.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "National Football League",
+      "description": "Experience the NFL in Los Angeles with 20 participating teams.",
+      "url": "https://example.com/events/nfl",
+      "imageUrl": "https://example.com/images/nfl.jpg",
+      "publishedAt": "2024-12-01T00:00:00Z",
+      "image": "../images/mac.jpeg"
+    },
+    {
+      "id": 7,
+      "title": "Player Spotlight: Sarah Lee",
+      "description": "Sarah Lee, a tennis player from Team C, has an impressive 4.8 rating.",
+      "url": "https://example.com/players/sarah-lee",
+      "imageUrl": "https://example.com/images/sarah-lee.jpg",
+      "publishedAt": "2024-11-15T00:00:00Z",
+      "image": "../images/mac.jpeg"
+    },
+    {
+      "id": 8,
+      "title": "Upcoming Olympic Games",
+      "description": "Exciting news about the upcoming Olympic Games in 2024.",
+      "url": "https://example.com/news/olympics",
+      "imageUrl": "https://example.com/images/olympics.jpg",
+      "publishedAt": "2024-11-20T00:00:00Z",
+      "image": "../images/mac.jpeg"
+    },
+    {
+      "id": 9,
+      "title": "Sharks Swimming Team",
+      "description": "Sharks are the top-ranked swimming team coached by Lisa Brown.",
+      "url": "https://example.com/teams/sharks",
+      "imageUrl": "https://example.com/images/sharks.jpg",
+      "publishedAt": "2024-11-15T00:00:00Z",
+      "image": "../images/mac.jpeg"
+    },
+    {
+      "id": 10,
+      "title": "Winter Sports Festival",
+      "description": "Join the Winter Sports Festival in Denver with 300 participants.",
+      "url": "https://example.com/events/winter-festival",
+      "imageUrl": "https://example.com/images/winter-festival.jpg",
+      "publishedAt": "2024-12-15T00:00:00Z",
+      "image": "../images/mac.jpeg"
+    }
+  
+  ]
+}

@@ -1,0 +1,35 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "title": "Technology Advances in 2024",
+        "description": "An overview of the significant technological advancements made in 2024.",
+        "image": "../images/mac.jpeg"
+      },
+      {
+        "id": 2,
+        "title": "Global Economic Trends",
+        "description": "A report on the major global economic trends shaping the market.",
+       "image": "../images/mac.jpeg"
+      },
+      {
+        "id": 3,
+        "title": "Health and Wellness Tips",
+        "description": "Top health and wellness tips to keep you healthy and happy.",
+        "image": "../images/mac.jpeg"
+      },
+      {
+        "id": 4,
+        "title": "Climate Change Initiatives",
+        "description": "Exploring the latest initiatives to combat climate change.",
+        "image": "../images/mac.jpeg"
+      },
+      {
+        "id": 5,
+        "title": "Technology Advances in 2024",
+        "description": "An overview of the significant technological advancements made in 2024.",
+        "image": "../images/mac.jpeg"
+      }
+    ]
+  }
+  
