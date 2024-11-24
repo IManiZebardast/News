@@ -3,7 +3,7 @@ import { Card, CardMedia, CardContent, Typography } from '@mui/material';
 import Grid from '@mui/material/Grid';
 import { useState, useEffect } from 'react';
 import InfiniteScroll from 'react-infinite-scroll-component';
-import Navbar from '@/components/navbar';
+import Navbar from '@/components/Header/navbar';
 import { Container } from '@mui/material';
 
 type PostItem = {

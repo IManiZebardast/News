@@ -1,8 +1,8 @@
 'use client'
 import * as React from 'react';
-import Navbar from '@/components/navbar';
-import NewsCarousel from '@/components/NewsCarousel';
-import NewsCard from '@/components/NewsCard';
+import Navbar from '@/components/Header/navbar';
+import NewsCarousel from '@/components/Carousel/NewsCarousel';
+import NewsCard from '@/components/Cards/NewsCard';
 import { Container } from '@mui/material';
 import Posts from '@/components/Posts';
 // my json file for CardSliders and Carousel
