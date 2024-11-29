@@ -33,12 +33,12 @@
     "react-swipeable-views-utils": "^0.14.0"
   },
   "devDependencies": {
-    "@types/node": "latest",
+    "@types/node": "22.9.3",
     "@types/react": "latest",
     "@types/react-dom": "latest",
     "@types/react-swipeable-views": "^0.13.3",
     "eslint": "latest",
     "eslint-config-next": "latest",
-    "typescript": "latest"
+    "typescript": "5.7.2"
   }
 }

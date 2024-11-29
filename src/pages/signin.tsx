@@ -18,20 +18,21 @@ export default function Signin() {
          alignItem:'Cneter',
          minHeight:'100vh',
          mt:'150px'
+         
          }}>
 
 
          <Card sx={{ maxWidth: 345 }}>
 
       <CardMedia>< AccountBoxIcon sx={{
-        ml:'115px',
+        ml:'120px',
         height:'90px',
         width:'90px',
         color:'#6001d2',
         display:'center'}}/>
         </CardMedia>
 
-      <CardContent sx={{ml:'45px'}}>
+      <CardContent sx={{ml:'50px'}}>
         <Typography sx={{ml:'55px'}} gutterBottom variant="h4" component="div">
           Signin
         </Typography>
