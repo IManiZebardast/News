@@ -21,7 +21,9 @@
     "@mui/styles": "^6.1.6",
     "@next/font": "^14.2.15",
     "@types/react-swipeable-views-utils": "^0.13.7",
+    "mysql2": "^3.11.5",
     "next": "latest",
+    "next-connect": "^1.0.0",
     "react": "latest",
     "react-dom": "latest",
     "react-infinite-scroll-component": "^6.1.0",
@@ -39,6 +41,7 @@
     "@types/react-swipeable-views": "^0.13.3",
     "eslint": "latest",
     "eslint-config-next": "latest",
+    "sequelize-cli": "^6.6.2",
     "typescript": "5.7.2"
   }
 }

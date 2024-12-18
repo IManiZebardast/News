@@ -4,6 +4,7 @@ import Grid from '@mui/material/Grid';
 import { useState, useEffect } from 'react';
 import InfiniteScroll from 'react-infinite-scroll-component';
 import { useRouter } from 'next/navigation'
+import Link from 'next/link';
 
 type PostItem = {
   id: number;
@@ -29,7 +30,6 @@ export default function Posts() {
     try {
       const response = await fetch('http://localhost:3000/json/dataPost.json');
       const data = await response.json();
-      console.log("this is data", data);
       const newPosts = data.items.slice((page - 1) * 5, page * 5);
       setPosts((prevPosts) => [...prevPosts, ...newPosts]);
       setPage(page + 1); 
@@ -40,7 +40,7 @@ export default function Posts() {
   };
 
   const handlePostClick = (id: number) => {
-    router.push(`/posts/${id}`);
+    router.push(`posts/${id}`);
   };
 
   return (
